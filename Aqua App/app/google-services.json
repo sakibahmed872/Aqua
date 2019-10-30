@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "852228039502",
+    "firebase_url": "https://aqua-95750.firebaseio.com",
+    "project_id": "aqua-95750",
+    "storage_bucket": "aqua-95750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852228039502:android:5e9388dfc9e472da",
+        "android_client_info": {
+          "package_name": "com.example.aqua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852228039502-ibf7pnmtd9etv8r28h310iolljdflsg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aqua",
+            "certificate_hash": "1e8468c473e5e43a6ae0ef57566b2b68ff0af3ac"
+          }
+        },
+        {
+          "client_id": "852228039502-69lf85jtk4bq9q09jn1fhk74ftqcn3qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5bPyVukihIfXgzz-NAQoFcAZFIbqwJKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852228039502-69lf85jtk4bq9q09jn1fhk74ftqcn3qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
